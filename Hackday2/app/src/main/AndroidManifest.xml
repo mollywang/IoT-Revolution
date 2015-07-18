@@ -16,6 +16,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".protocol_description"
+            android:label="@string/title_activity_protocol_description" >
+        </activity>
+        <activity
+            android:name=".ChooseProtocol"
+            android:label="@string/title_activity_choose_protocol" >
+        </activity>
+        <activity
+            android:name=".company_description"
+            android:label="@string/title_activity_company_description" >
+        </activity>
+        <activity
+            android:name=".product_description"
+            android:label="@string/title_activity_product_description" >
+        </activity>
     </application>
 
 </manifest>

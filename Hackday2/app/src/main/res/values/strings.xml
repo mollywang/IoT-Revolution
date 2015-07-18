@@ -4,5 +4,9 @@
     <string name="app_name">BuildIt</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_protocol_description">protocol_description</string>
+    <string name="title_activity_choose_protocol">ChooseProtocol</string>
+    <string name="title_activity_company_description">company_description</string>
+    <string name="title_activity_product_description">product_description</string>
 
 </resources>
